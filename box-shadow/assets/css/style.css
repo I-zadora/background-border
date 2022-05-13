@@ -1,0 +1,19 @@
+body{
+    background-color: darkgrey;
+   
+    
+}
+#imagem-redonda{
+    border-radius:50%;
+    background-color: darkgray;
+    border:3px solid white;
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    margin-left: 40%;
+
+}
+.name{
+    text-align: center; 
+    margin-right: 30px;
+}
